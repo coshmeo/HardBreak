@@ -38,7 +38,7 @@ OSINT (Open Source Intelligence) is the practice of collecting information from 
 
 <figure><img src="../../../.gitbook/assets/image (79).png" alt="" width="383"><figcaption><p>FCC ID found</p></figcaption></figure>
 
-* On [https://fccid.io/](https://fccid.io/) you can search the FCC ID and will get documentation, external photos and very interesting for us: Internal photos
+* On [https://fccid.io/](https://fccid.io/) you can search the FCC ID and will get documentation, external photos and (very interesting for us!) internal photos
 
 <figure><img src="../../../.gitbook/assets/image (80).png" alt="" width="563"><figcaption><p>Internal Photos of target device</p></figcaption></figure>
 
