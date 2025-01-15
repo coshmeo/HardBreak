@@ -55,10 +55,9 @@ Saleae Logic is a popular line of logic analyzers known for their ease of use, v
 9.  We can also look at the decoded in the terminal view
 
     <figure><img src="../../../../../.gitbook/assets/analyzer-uart.png" alt=""><figcaption><p>Analyzer in terminal</p></figcaption></figure>
-10. If you don't find the correct analyzer for your protocol you may use extensions to load your custom analyzers:
-    1.
+10. If you don't find the correct analyzer for your protocol you may use extensions to load your custom analyzers
 
-        <figure><img src="../../../../../.gitbook/assets/extensions.png" alt="" width="563"><figcaption><p>Saleae extensions</p></figcaption></figure>
+    <figure><img src="../../../../../.gitbook/assets/extensions.png" alt="" width="563"><figcaption><p>Saleae extensions</p></figcaption></figure>
 
 ## Resources
 
