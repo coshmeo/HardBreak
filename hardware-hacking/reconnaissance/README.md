@@ -4,7 +4,7 @@ icon: magnifying-glass
 
 # Reconnaissance
 
-In this chapter we demonstrate on how to enumerate a device. It makes sense to follow a top down approach and start analyzing from the outside first before opening a device. Opening a unknown device comes always at the risk of triggering a tamper protection or damaging it. Even without opening the device we can already identify potential weaknesses.
+In this chapter we demonstrate on how to enumerate a device. It makes sense to follow a top down approach and start analyzing from the outside first before opening a device. Opening an unknown device always comes at the risk of triggering a tamper protection or damaging it. Potential weaknesses can be identified without even opening the device.
 
 ## Overview
 
