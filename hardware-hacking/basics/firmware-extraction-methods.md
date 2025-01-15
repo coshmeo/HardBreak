@@ -6,7 +6,7 @@ icon: browser
 
 ## Firmware Extraction Methods
 
-Firmware is the software embedded in a device's hardware, often critical for its operation. Extracting and analyzing it is crucial to understqnd the device's functionality and structure and establish a foothold by analysing, through methods of reverse engineering, or modifying the firmware and reflashing a device.
+Firmware is the software embedded in a device's hardware, often critical for its operation. Extracting and analyzing it is crucial to understand the device's functionality and structure and establish a foothold by analysing, through methods of reverse engineering, or modifying the firmware and reflashing a device.
 
 But before you fire up [Binwalk](/hardware-hacking/basics/tools/software-tools/binwalk.md) or [Ghidra](/hardware-hacking/basics/tools/software-tools/ghidra.md) and start analyzing, reversing and establishing your foothold, you first need to obtain the firmware itself.
 
