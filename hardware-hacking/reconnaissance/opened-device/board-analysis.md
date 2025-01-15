@@ -32,7 +32,7 @@ These components of interest could be:
     <figure><img src="../../../.gitbook/assets/test-pins.png" alt=""><figcaption><p>Header-pins exposed</p></figcaption></figure>
 
 
-* Sometimes there also available as golden/silver test pads:
+* Other times they are available as golden/silver test pads:
 
 <figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption><p><br></p></figcaption></figure>
 
