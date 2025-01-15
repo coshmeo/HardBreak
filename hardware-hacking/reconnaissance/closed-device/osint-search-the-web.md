@@ -42,6 +42,6 @@ OSINT (Open Source Intelligence) is the practice of collecting information from 
 
 <figure><img src="../../../.gitbook/assets/image (80).png" alt="" width="563"><figcaption><p>Internal Photos of target device</p></figcaption></figure>
 
-* Here an example, where we can already spot a potential debug interface:
+* For example, we can already spot a potential debug interface here:
 
 <figure><img src="../../../.gitbook/assets/image (81).png" alt="" width="563"><figcaption><p>Potential UART found on FCC picture</p></figcaption></figure>
