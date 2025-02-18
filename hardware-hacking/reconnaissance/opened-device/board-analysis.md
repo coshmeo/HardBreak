@@ -79,7 +79,7 @@ like Flash, EEPROM, RAM
 * Pentesting focus
   * Direct access to these chips for firmware dumping, encryption key recovery, or manipulating stored data (e.g., via SPI or I2C interfaces).
 * Example:
-  *   They come in different sizes and chapes
+  *   They come in different sizes and shapes
 
 
 
