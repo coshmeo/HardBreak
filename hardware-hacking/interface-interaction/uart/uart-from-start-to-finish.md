@@ -74,7 +74,7 @@ Here a summary:
 | 0V                    | GND    |
 {% endtab %}
 
-{% tab title="Restance check" %}
+{% tab title="Resistance check" %}
 Another method is to check the resistance of each test pad against GND.
 
 Here would be the expected values, but it also is depending on the configuration:
